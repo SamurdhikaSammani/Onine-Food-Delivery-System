@@ -37,7 +37,6 @@ DineDirect is a food delivery web application that allows users to order meals f
    # Configuration:
    # Edit components/connect.php with your database credentials
 3. **Admin Access**:
-
-Default admin credentials:
+Default admin credentials
 Username: admin
 Password: 12345
