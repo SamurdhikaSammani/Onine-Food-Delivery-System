@@ -1,4 +1,4 @@
- DineDirect - Food Delivery Web Application
+## DineDirect - Food Delivery Web Application
 
 DineDirect is a food delivery web application that allows users to order meals from local restaurants. The platform provides a user-friendly interface for browsing menus, managing cart items, placing orders, and tracking order history.
 
@@ -37,6 +37,11 @@ DineDirect is a food delivery web application that allows users to order meals f
    # Configuration:
    # Edit components/connect.php with your database credentials
 3. **Admin Access**:
-Default admin credentials
-Username: admin
-Password: 12345
+   Default admin credentials
+   Username: admin
+   Password: 12345
+   
+   
+
+
+
